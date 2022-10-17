@@ -35,6 +35,6 @@ Used Tools:
 | Back-End | Front-End |
 | --- | --- |
 | Node JS | ReactJs |
-| MySQL | GraphJs |
+| MySQL | ChartJs |
 | Express |  |
 |  |  |
