@@ -8,15 +8,14 @@
 - Visual identity
 - Use good design pattern and performative data structure
 
-## Introduction
+## Demonstration
+
+
+https://user-images.githubusercontent.com/98204950/204108593-2120ca1d-7689-4d78-be1e-26022a4e6df6.mp4
 
 ### Abstract
 
-gerenciamento de empresas 
-
-Registro de receitas, depesas, calculo de lucros e gráficos com GraphJS
-
-Cálculo da DRE, comparação com empresas do segmento através de API 
+This is an enterprise's expenses and profits administration.
 
 ### Structure
 
